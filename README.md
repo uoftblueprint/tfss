@@ -6,5 +6,6 @@
 Jeff Huang
 Min Gi Kwon
 Pierre-William Lessard
+Caesar Saleh
 Sarah Xu
 
