@@ -3,4 +3,7 @@
 
 # Contributors
 
-Pierre-William
+Min Gi Kwon
+Pierre-William Lessard
+Sarah Xu
+
