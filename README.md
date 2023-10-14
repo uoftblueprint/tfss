@@ -3,4 +3,4 @@
 
 # Contributors
 
-Sarah XU
+Sarah Xu
