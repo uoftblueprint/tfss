@@ -3,4 +3,5 @@
 
 # Contributors
 
+Min Gi Kwon
 Sarah Xu
