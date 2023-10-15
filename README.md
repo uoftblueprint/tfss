@@ -9,3 +9,4 @@ Caesar Saleh
 Youssef Soliman
 Sarah Xu
 Sataphon 
+Valerie Yip
