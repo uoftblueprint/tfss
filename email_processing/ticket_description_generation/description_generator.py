@@ -1,4 +1,4 @@
-from config import API_KEY
+from config import gpt_api_key as api_key
 from typing import List
 from dataclasses import dataclass
 
