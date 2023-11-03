@@ -2,4 +2,4 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-gpt_api_key = os.getenv("GPT_API_KEY")
+gpt_api_key = os.getenv("OPENAI_API_KEY")
