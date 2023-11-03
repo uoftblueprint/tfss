@@ -33,4 +33,5 @@ def generate_description(email: Email, construct_prompt: Callable = construct_ba
 
 
 if __name__ == '__main__':
-    get_description_from_gpt("Hello, I have a question")
+    # for testing purposes
+    print(get_description_from_gpt("Hello, I have a question"))
