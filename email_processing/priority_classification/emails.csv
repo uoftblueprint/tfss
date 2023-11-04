@@ -1,0 +1,73 @@
+content,priority
+"Hey, can you send me the report by end of the day?",3
+"I think we should schedule a meeting to discuss the project timeline.",4
+"Check out this cool new data visualization tool!",2
+"URGENT: The server is down and needs to be fixed immediately!",5
+"Reminder: Your appointment is scheduled for 3 PM tomorrow.",1
+"Can you help me with my homework?",0
+"Let's grab lunch sometime next week.",1
+"Congratulations on your promotion!",2
+"Can you review my code and provide feedback?",3
+"IMPORTANT: Please review the attached document and provide your input.",4
+"The new product launch is scheduled for next month.",3
+"Please update the spreadsheet with the latest sales data.",2
+"Don't forget to submit your timesheet by Friday.",1
+"Looking forward to seeing you at the conference next week!",2
+"Happy Birthday! Hope you have a great day!",1
+"Please confirm your attendance for the workshop.",2
+"URGENT: The client is waiting for our proposal. Please send it ASAP!",5
+"Your feedback on the presentation would be greatly appreciated.",3
+"Can you pick up some groceries on your way home?",0
+"Let's plan a vacation for the summer!",1
+"Please review the code and merge the changes to the main branch.",4
+"The WiFi password has been changed. The new password is 'password123'.",1
+"Please RSVP for the company holiday party by next week.",2
+"Are you free for a coffee catch-up next week?",1
+"REMINDER: Your library books are due for return tomorrow.",1
+"Have you seen the latest episode of the TV show?",0
+"I'm running late. Can you start the meeting without me?",2
+"Can we reschedule our call to tomorrow?",1
+"Looking for volunteers for the community clean-up event this weekend.",2
+"Did you receive the package I sent you?",1
+"Please complete the survey attached in the email.",2
+"Your prescription is ready for pick up at the pharmacy.",1
+"We need to update the software to the latest version.",3
+"Please send me your availability for a meeting next week.",2
+"The deadline for the project has been extended by a week.",3
+"Are you available for a video call later today?",2
+"Can you send me the list of attendees for the event?",2
+"Please fill out the required forms for the new hire orientation.",3
+"Congratulations! You've won a free gift. Claim it now!",0
+"Would you like to join our mailing list to receive updates and offers?",0
+"Are you interested in participating in our customer feedback survey?",0
+"Did you receive the package I sent you?",1
+"Please complete the survey attached in the email.",2
+"Your prescription is ready for pick up at the pharmacy.",1
+"We need to update the software to the latest version.",3
+"Please send me your availability for a meeting next week.",2
+"The deadline for the project has been extended by a week.",3
+"Are you available for a video call later today?",2
+"Can you send me the list of attendees for the event?",2
+"Please fill out the required forms for the new hire orientation.",3
+"Congratulations! You've won a free gift. Claim it now!",0
+"Would you like to join our mailing list to receive updates and offers?",0
+"Are you interested in participating in our customer feedback survey?",0
+"The delivery is scheduled to arrive tomorrow.",1
+"Can you review the document and provide your feedback?",3
+"Please update the client on the status of the project.",4
+"Can you help me set up the new printer?",0
+"Looking forward to our call tomorrow.",2
+"Please remember to bring your ID for the event.",2
+"Did you book the flight for the business trip?",3
+"Can you pick up the kids from school today?",0
+"URGENT: Please respond to the client's email immediately.",5
+"CRITICAL: The server is down and needs to be fixed ASAP!",5
+"IMPORTANT: Please review the contract and sign it today.",5
+"EMERGENCY: There's a security breach in our system!",5
+"ATTENTION: The project deadline is today. Please submit your work.",5
+"ALERT: The client is waiting for our response. Please send it now!",5
+"URGENT: The boss needs the report by end of the day.",5
+"IMPORTANT: Please resolve the customer complaint immediately.",5
+"CRITICAL: The product recall needs to be addressed urgently.",5
+"ALERT: The payment is overdue. Please process it today.",5
+"EMERGENCY: The building is on fire. Please evacuate immediately!",5
