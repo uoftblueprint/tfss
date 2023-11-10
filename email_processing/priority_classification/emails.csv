@@ -71,3 +71,331 @@ content,priority
 "CRITICAL: The product recall needs to be addressed urgently.",5
 "ALERT: The payment is overdue. Please process it today.",5
 "EMERGENCY: The building is on fire. Please evacuate immediately!",5
+"Hello, could you please provide an update on the project status?",3
+"I'm excited to share the latest product features with you!",2
+"URGENT: System maintenance required tonight at 10 PM.",5
+"Reminder: Team meeting at 2 PM tomorrow.",1
+"Need your assistance with the client presentation slides.",4
+"Can we reschedule our lunch meeting to next Tuesday?",1
+"Congratulations on completing the training program!",2
+"Code review request for the new feature implementation.",3
+"IMPORTANT: Review and approve the budget proposal attached.",4
+"The marketing campaign launch is set for next week.",3
+"Please double-check the financial report for accuracy.",2
+"Don't forget to sign up for the upcoming workshop.",2
+"URGENT: Client demo tomorrow. Prepare the demo script.",5
+"Your opinion on the new office layout is highly valued.",3
+"Happy Anniversary! Thank you for your hard work.",1
+"Confirming your attendance at the industry conference.",2
+"URGENT: Contract negotiation update needed ASAP!",5
+"Feedback requested for the team-building event proposal.",3
+"Can you pick up office supplies on your way in?",0
+"Let's discuss the upcoming project milestones.",4
+"Hey, can you provide feedback on the latest project draft?",3
+"Exciting news: We've secured a new client for the company!",2
+"URGENT: Server maintenance scheduled for this evening.",5
+"Reminder: Quarterly performance review next week.",1
+"Need your input on the agenda for the team offsite.",4
+"Can we move our coffee catch-up to Friday morning?",1
+"Congratulations on reaching a new milestone in your role!",2
+"Review and comment on the updated coding standards document.",3
+"IMPORTANT: Final approval needed for the budget allocation.",4
+"The launch of the website redesign is set for next month.",3
+"Please verify the accuracy of the customer satisfaction survey.",2
+"Don't forget to register for the upcoming training session.",2
+"URGENT: Client meeting rescheduled to tomorrow. Prepare slides.",5
+"Your insights on the marketing strategy would be appreciated.",3
+"Happy Thanksgiving! Enjoy the holiday with your loved ones.",1
+"Confirm your availability for the strategic planning session.",2
+"URGENT: Proposal submission deadline extended. Revise ASAP!",5
+"Feedback requested on the new employee onboarding process.",3
+"Can you pick up some office snacks during your lunch break?",0
+"Let's coordinate schedules for the upcoming project kickoff.",4
+"Hello, could you please share your thoughts on the budget proposal?",3
+"Exciting updates: New team members joining next month!",2
+"URGENT: System update required. Please install by end of the day.",5
+"Reminder: Weekly status meeting at 9 AM tomorrow.",1
+"Your expertise is needed to finalize the project roadmap.",4
+"Can we reschedule our team-building event to next Friday?",1
+"Congratulations on completing the challenging project ahead of schedule!",2
+"Review and provide comments on the latest software architecture design.",3
+"IMPORTANT: Approval needed for the marketing campaign budget.",4
+"The release of the software update is planned for next week.",3
+"Please cross-verify the data in the quarterly financial report.",2
+"Don't forget to submit your preferences for the upcoming team retreat.",2
+"URGENT: Client presentation postponed to Thursday. Update slides.",5
+"Your feedback on the user interface design is crucial for the project.",3
+"Happy Holidays! Wishing you joy and prosperity in the new year.",1
+"Confirm your attendance for the upcoming leadership workshop.",2
+"URGENT: Revised contract terms. Please review and provide input.",5
+"Feedback requested on the employee satisfaction survey results.",3
+"Can you pick up office supplies on your way to the meeting?",0
+"Let's schedule a brainstorming session for the upcoming product launch.",4
+"Hey, could you please share your thoughts on the team's performance this quarter?",3
+"Exciting Update: Our project has been selected for a featured showcase!",2
+"URGENT: Software patch required. Ensure installation by end of the day.",5
+"Reminder: Monthly team-building lunch this Friday at the new restaurant.",1
+"We value your expertise in finalizing the client proposal document.",4
+"Can we reschedule our weekly team huddle to accommodate everyone's schedule?",1
+"Congratulations on your recent accomplishments! Well done!",2
+"Review and provide feedback on the design mockups for the new app.",3
+"IMPORTANT: Final approval needed for the annual budget plan.",4
+"The launch of the product demo is scheduled for next month.",3
+"Please review the data in the quarterly financial report for accuracy.",2
+"Don't forget to register for the upcoming training workshop on leadership.",2
+"URGENT: Client presentation moved to tomorrow. Prepare the presentation slides.",5
+"Your insights on the marketing strategy are vital for the success of the campaign.",3
+"Happy Thanksgiving! May your day be filled with joy and gratitude.",1
+"Confirm your attendance for the upcoming industry conference.",2
+"URGENT: Revised contract terms. Your input is needed by the end of the day!",5
+"Feedback requested on the latest project status update.",3
+"Can you pick up some office supplies on your way in tomorrow?",0
+"Let's schedule a planning session for the upcoming product launch phases.",4
+"Hey, could you provide input on the draft of the marketing campaign strategy?",3
+"Exciting Update: Our team has exceeded our quarterly goals!",2
+"URGENT: Software update required. Please complete by the end of the day.",5
+"Reminder: Team-building workshop this Friday at the offsite venue.",1
+"We value your expertise in finalizing the client proposal for the upcoming meeting.",4
+"Can we reschedule our weekly status meeting to accommodate everyone's availability?",1
+"Congratulations on your recent accomplishments! Your hard work is truly appreciated.",2
+"Review and provide feedback on the wireframes for the upcoming website redesign.",3
+"IMPORTANT: Final approval needed for the budget reallocation plan.",4
+"The launch of the new product features is scheduled for next month.",3
+"Please review the data in the quarterly financial report for accuracy.",2
+"Don't forget to register for the upcoming leadership training session.",2
+"URGENT: Client presentation moved to tomorrow. Prepare the slides accordingly.",5
+"Your insights on the marketing strategy are crucial for the success of the campaign.",3
+"Happy New Year! Wishing you a year filled with success and joy.",1
+"Confirm your attendance for the upcoming industry conference.",2
+"URGENT: Revised contract terms. Your input is needed by the end of the day!",5
+"Feedback requested on the latest project status update.",3
+"Can you pick up some office supplies on your way in tomorrow?",0
+"Let's schedule a planning session for the upcoming product launch phases.",4
+"Hey, I need your input on the upcoming project deadline.",2
+"Meeting request: Let's discuss the budget for the next quarter.",1
+"Exciting news: Our team just reached a new milestone!",4
+"URGENT: System maintenance required tonight.",5
+"Reminder: Team-building event tomorrow at 3 PM.",1
+"Need assistance with a coding challenge - can you help?",3
+"Lunch plans? Let's catch up next week.",0
+"Congratulations on completing the recent project successfully!",2
+"Code review request: Can you take a look at my changes?",3
+"IMPORTANT: Review and provide feedback on the proposal document.",4
+"Update on the upcoming product demo.",3
+"Please verify and update the client contact list.",2
+"Don't forget to submit your weekly progress report.",1
+"Looking forward to connecting at the industry conference!",2
+"Happy Birthday! Wishing you a fantastic day!",0
+"Confirmation needed: Your attendance for the workshop.",2
+"URGENT: Client awaiting our response to the proposal. Immediate action required!",5
+"Feedback requested: Thoughts on the latest project presentation?",3
+"Can you pick up some office supplies on your way in?",1
+"Exciting announcement: Company-wide event next month!",4
+"Quick question: Can we reschedule our meeting for later today?",2
+"Proposal submission reminder: Due by end of the week.",4
+"Check out this amazing productivity tool I found!",1
+"URGENT: Network connectivity issues in the office.",5
+"Appointment reminder: Your consultation is scheduled for tomorrow.",0
+"Seeking advice: Can you guide me on a coding challenge?",3
+"Lunch plans? Let's grab a bite next week.",1
+"Congratulations on reaching your sales target!",2
+"Code review request: Your expertise would be highly valuable.",3
+"IMPORTANT: Review the attached document and share your insights.",4
+"Update on the upcoming team-building activity.",3
+"Request for data update: Please ensure accuracy in the sales report.",2
+"Don't forget to submit your timesheet by the end of the week.",1
+"Excited to meet you at the industry conference next week!",2
+"Happy Anniversary! Celebrate the achievements of the past year.",1
+"Confirmation required: Your participation in the training workshop.",2
+"URGENT: Client awaiting our proposal response. Immediate attention needed!",5
+"Feedback requested: Thoughts on the latest project presentation?",3
+"Can you pick up some office supplies on your way in?",0
+"Exciting announcement: New project kickoff meeting tomorrow!",4
+"Hey, could you provide feedback on the new website design?",3
+"Meeting request: Let's discuss the marketing strategy for next quarter.",4
+"Exciting news: Our team just won an industry award!",2
+"URGENT: Software update required for security reasons.",5
+"Reminder: Team-building event next week on Thursday.",1
+"Need your help with a programming challenge - can you assist?",0
+"Lunch plans? Let's catch up sometime this week.",1
+"Congratulations on your recent achievements!",2
+"Code review request: Can you take a look at my latest changes?",3
+"IMPORTANT: Review and provide input on the project proposal.",4
+"Update on the upcoming product launch.",3
+"Please verify and update the customer contact list.",2
+"Don't forget to submit your monthly progress report.",1
+"Looking forward to connecting at the upcoming conference!",2
+"Happy Birthday! Wishing you a fantastic day!",0
+"Confirmation needed: Your attendance for the training workshop.",2
+"URGENT: Client awaiting our response to the proposal. Immediate action required!",5
+"Feedback requested: Thoughts on the latest project presentation?",3
+"Can you pick up some office supplies on your way in?",1
+"Exciting announcement: Company-wide event next month!",4
+"Quick question: Can we discuss the project timeline tomorrow?",2
+"Proposal deadline approaching: Submit your input by Friday.",4
+"Check out this interesting article on workplace productivity!",1
+"URGENT: Server maintenance required this weekend.",5
+"Appointment reminder: Your meeting is scheduled for 2 PM tomorrow.",0
+"Seeking advice: Can you assist with a coding challenge?",3
+"Lunch plans? Let's grab a meal together next week.",1
+"Congratulations on exceeding your sales target!",2
+"Code review request: Your expertise would be highly valuable.",3
+"IMPORTANT: Please review and provide feedback on the attached document.",4
+"Update on the upcoming product demo.",3
+"Request for data update: Ensure accuracy in the financial report.",2
+"Don't forget to submit your timesheet by the end of the week.",1
+"Excited to meet you at the industry conference next month!",2
+"Happy Anniversary! Celebrate the achievements of the past year.",1
+"Confirmation required: Your participation in the training workshop.",2
+"URGENT: Client awaiting our proposal response. Immediate attention needed!",5
+"Feedback requested: Thoughts on the latest project presentation?",3
+"Can you pick up some office supplies on your way in?",0
+"Exciting announcement: New project kickoff meeting on Monday!",4
+"Hey, can you provide input on the upcoming product launch?",3
+"Meeting request: Let's discuss the marketing strategy for the next quarter.",4
+"Exciting news: Our team just secured a major client!",2
+"URGENT: Software update required for security reasons.",5
+"Reminder: Team-building event next week on Thursday.",1
+"Need your expertise with a coding challenge - can you assist?",0
+"Lunch plans? Let's catch up sometime this week.",1
+"Congratulations on your recent promotion!",2
+"Code review request: Can you take a look at my latest changes?",3
+"IMPORTANT: Review and provide input on the project proposal.",4
+"Update on the upcoming project demo.",3
+"Please verify and update the customer contact list.",2
+"Don't forget to submit your monthly progress report.",1
+"Looking forward to connecting at the upcoming conference!",2
+"Happy Birthday! Wishing you a fantastic day!",0
+"Confirmation needed: Your attendance for the training workshop.",2
+"URGENT: Client awaiting our response to the proposal. Immediate action required!",5
+"Feedback requested: Thoughts on the latest project presentation?",3
+"Can you pick up some office supplies on your way in?",1
+"Exciting announcement: Company-wide event next month!",4
+"Hey, quick question about the upcoming project deadline.",3
+"Meeting request: Let's align on the project timeline for Q4.",4
+"Explore this fantastic new data visualization tool!",2
+"URGENT: Critical server issue! Immediate attention required.",5
+"Reminder: Your appointment is scheduled for 3 PM tomorrow.",1
+"Need your expertise: Can you help me with my coding challenge?",0
+"Lunch plans? Let's catch up next week and discuss work.",1
+"Congratulations on your recent promotion! Well-deserved.",2
+"Code review request: Seeking your valuable feedback.",3
+"IMPORTANT: Your review is needed on the attached document.",4
+"Exciting update: New product launch scheduled for next month.",3
+"Please update the spreadsheet with the latest sales data.",2
+"Don't forget to submit your timesheet by Friday's deadline.",1
+"Looking forward to connecting at the conference next week!",2
+"Happy Birthday! Wishing you a fantastic day of celebration.",1
+"Confirmation needed: Your attendance for the upcoming workshop.",2
+"URGENT: Client eagerly waiting for our proposal. Send ASAP!",5
+"We value your feedback on the recent presentation. Thoughts?",3
+"Quick favor: Can you grab some office supplies on your way in?",0
+"Exciting news: Company-wide event planned for next month!",4
+"Hey, can you provide input on the project deadline?",3
+"Meeting request: Let's align on the project roadmap for Q4.",4
+"Check out this fantastic new data visualization tool!",2
+"URGENT: Critical server maintenance required immediately.",5
+"Reminder: Your appointment is scheduled for 3 PM tomorrow.",1
+"Need your expertise: Can you help with a coding challenge?",0
+"Lunch plans? Let's grab a bite next week and discuss work.",1
+"Congratulations on your recent promotion! Well-deserved.",2
+"Code review request: Seeking your valuable feedback.",3
+"IMPORTANT: Your review is needed on the attached document.",4
+"Exciting update: New product launch scheduled for next month.",3
+"Please update the spreadsheet with the latest sales data.",2
+"Don't forget to submit your timesheet by Friday's deadline.",1
+"Looking forward to connecting at the conference next week!",2
+"Happy Birthday! Wishing you a fantastic day of celebration.",1
+"Confirmation needed: Your attendance for the upcoming workshop.",2
+"URGENT: Client eagerly waiting for our proposal. Send ASAP!",5
+"We value your feedback on the recent presentation. Thoughts?",3
+"Quick favor: Can you pick up some office supplies on your way in?",0
+"Exciting news: Company-wide event planned for next month!",4
+"Quick question: Can we reschedule our meeting for tomorrow?",2
+"Proposal submission reminder: Due by end of the week.",4
+"Check out this interesting article on workplace productivity!",1
+"URGENT: Network connectivity issues in the office.",5
+"Appointment reminder: Your consultation is scheduled for tomorrow.",0
+"Seeking advice: Can you guide me on a coding challenge?",3
+"Lunch plans? Let's grab a meal together next week.",1
+"Congratulations on completing the recent project successfully!",2
+"Code review request: Can you take a look at my changes?",3
+"IMPORTANT: Review and provide input on the project proposal.",4
+"Update on the upcoming team-building activity.",3
+"Request for data update: Please ensure accuracy in the sales report.",2
+"Don't forget to submit your weekly progress report.",1
+"Looking forward to connecting at the industry conference!",2
+"Happy Birthday! Hope you have an amazing day!",0
+"Please confirm your attendance for the workshop.",2
+"URGENT: The client is waiting for our proposal. Please send it ASAP!",5
+"Your feedback on the presentation would be greatly appreciated.",3
+"Can you pick up some groceries on your way home?",0
+"Quick update: Can we meet tomorrow to discuss the new project?",2
+"Proposal deadline approaching: Submit your feedback by Friday.",4
+"Explore this fantastic new data visualization tool!",1
+"URGENT: Network maintenance required this weekend.",5
+"Appointment reminder: Your meeting is scheduled for 10 AM tomorrow.",0
+"Seeking assistance: Can you help with a coding challenge?",3
+"Lunch plans? Let's catch up sometime this week.",1
+"Congratulations on your recent promotion! Well-deserved.",2
+"Code review request: Your insights are valuable.",3
+"IMPORTANT: Please review and provide feedback on the attached document.",4
+"Update on the upcoming project demo.",3
+"Request for data update: Verify information in the financial report.",2
+"Don't forget to submit your weekly progress report.",1
+"Excited to meet you at the industry conference next month!",2
+"Happy Anniversary! Celebrate the achievements of the past year.",1
+"Confirmation required: Your participation in the training workshop.",2
+"URGENT: Client awaiting our proposal response. Immediate attention needed!",5
+"Feedback requested: Thoughts on the latest project presentation?",3
+"Can you pick up some office supplies on your way in?",0
+"Exciting announcement: New project kickoff meeting on Monday!",4
+"Quick question: Can we meet tomorrow to discuss the project update?",2
+"Proposal review needed: Please provide your feedback by Friday.",4
+"Check out this insightful article on team collaboration!",1
+"URGENT: Server issues detected! Immediate attention required.",5
+"Reminder: Your 3 PM appointment is tomorrow. Don't miss it!",0
+"Need your assistance: Can you help me with my coding challenge?",3
+"Lunch plans? Let's grab a quick bite next week.",1
+"Congratulations on your recent promotion! Well-deserved.",2
+"Code review request: Seeking your valuable feedback.",3
+"IMPORTANT: Please review and provide input on the attached document.",4
+"Exciting update: New product launch scheduled for next month.",3
+"Please update the spreadsheet with the latest sales data.",2
+"Don't forget to submit your timesheet by Friday's deadline.",1
+"Looking forward to connecting at the conference next week!",2
+"Happy Birthday! Wishing you a fantastic day of celebration.",1
+"Confirmation needed: Your attendance for the upcoming workshop.",2
+"URGENT: Client eagerly waiting for our proposal. Send ASAP!",5
+"We value your feedback on the recent presentation. Thoughts?",3
+"Quick favor: Can you pick up some office supplies on your way in?",0
+"Exciting news: Company-wide event planned for next month!",4
+"Quick favor: Can you review the project deadline with me?",2
+"Meeting request: Let's align on the project roadmap for Q4.",4
+"Check out this fantastic new data visualization tool!",1
+"URGENT: Critical server maintenance required immediately.",5
+"Reminder: Your appointment is scheduled for 3 PM tomorrow.",1
+"Need your expertise: Can you help with a coding challenge?",0
+"Lunch plans? Let's grab a bite next week and discuss work.",1
+"Congratulations on your recent promotion! Well-deserved.",2
+"Code review request: Seeking your valuable feedback.",3
+"IMPORTANT: Your review is needed on the attached document.",4
+"Exciting update: New product launch scheduled for next month.",3
+"Please update the spreadsheet with the latest sales data.",2
+"Don't forget to submit your timesheet by Friday's deadline.",1
+"Looking forward to connecting at the conference next week!",2
+"Happy Birthday! Wishing you a fantastic day of celebration.",1
+"Confirmation needed: Your attendance for the upcoming workshop.",2
+"URGENT: Client eagerly waiting for our proposal. Send ASAP!",5
+"We value your feedback on the recent presentation. Thoughts?",3
+"Quick favor: Can you pick up some office supplies on your way in?",0
+"Exciting news: Company-wide event planned for next month!",4
+"Quick question: Can we reschedule our meeting for tomorrow?",2
+"Proposal submission reminder: Due by end of the week.",4
+"Check out this interesting article on workplace productivity!",1
+"URGENT: Network connectivity issues in the office.",5
+"Appointment reminder: Your consultation is scheduled for tomorrow.",0
+"Seeking advice: Can you guide me on a coding challenge?",3
+"Lunch plans? Let's grab a meal together next week.",1
+"Congratulations on completing the recent project successfully", 2
+
