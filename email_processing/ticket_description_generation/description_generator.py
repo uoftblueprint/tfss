@@ -1,16 +1,7 @@
-from config import gpt_api_key as api_key
-from typing import List, Callable
-from dataclasses import dataclass
+from typing import Callable
 import openai
 
-
-@dataclass
-class Email:
-    to: List[str]
-    author: str
-    date: str
-    subject: str
-    body: str
+from models import Email
 
 
 def get_description_from_gpt(input_data: str) -> str:
