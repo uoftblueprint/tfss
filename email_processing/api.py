@@ -26,7 +26,7 @@ def create_email():
 
     try:
         email = Email(**data)
-        return jsonify(asdict(email)), 201
+        return jsonify(asdict(email)), 200
     except TypeError as e:
         return jsonify({"error": str(e)}), 400
 
