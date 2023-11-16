@@ -1,8 +1,5 @@
-import csv
 from dataclasses import dataclass
 from typing import List
-import os, sys, email
-import numpy as np
 import pandas as pd
 
 @dataclass
@@ -14,7 +11,8 @@ class Email:
     body: str
 
 def populate_class(filename):
-    df = pd.read_csv(filename, sep='\t')
+    df = pd.read_csv(filename, sep=';')
+    
     emails = []
     #'To', 'From', 'Subject', 'X-To', 'X-From', 'content'
     for index, row in df.iterrows():
@@ -30,4 +28,12 @@ def populate_class(filename):
     return emails
 
 if __name__ == '__main__':
-    populate_class('your_file.csv')
+    email_objects = populate_class('test_data/task_emails.csv')
+
+    # Check if objects have been created
+    if email_objects:
+        print("Email objects have been created:")
+        for email in email_objects:
+            print(email)
+    else:
+        print("No email objects have been created.")
