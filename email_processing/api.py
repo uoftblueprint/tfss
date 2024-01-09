@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_httpauth import HTTPBasicAuth
-from dataclasses import asdict
+from dataclasses import asdict, is_dataclass
+from ticket_description_generation.description_generator import get_description_from_gpt, construct_basic_prompt
 
 from models import Email
 from config import flask_password
@@ -26,7 +27,9 @@ def create_email():
 
     try:
         email = Email(**data)
-        return jsonify(asdict(email)), 200
+        email_priority = 1 # TODO: generate priority from model
+        description = get_description_from_gpt(construct_basic_prompt(email))
+        return jsonify({"priority": email_priority, "description": description}), 200
     except TypeError as e:
         return jsonify({"error": str(e)}), 400
 
