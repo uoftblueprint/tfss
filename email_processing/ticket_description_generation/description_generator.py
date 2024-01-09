@@ -1,11 +1,12 @@
-from email_processing.models import Email
 from typing import Callable
 from openai import OpenAI
-import os
+import os, sys
 from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 print(os.getenv("OPENAI_API_KEY"))
+sys.path.append("..")
+from models import Email
 
 
 def get_description_from_gpt(input_data: str) -> str:
@@ -13,7 +14,6 @@ def get_description_from_gpt(input_data: str) -> str:
     try:
         response = client.chat.completions.create(model="gpt-3.5-turbo",
                                                   messages=[{"role": "user", "content": input_data}])
-        print(response.choices[0].message.content)
         return response.choices[0].message.content
     except Exception as error:
         print(error)
@@ -23,7 +23,15 @@ def get_description_from_gpt(input_data: str) -> str:
 
 def construct_basic_prompt(email: Email) -> str:
     """Generates a basic prompt for GPT from the given email."""
-    return "Can you generate action items based on this email body:" + email.body
+    prompt = (
+        "Analyze this email and provide a concise description of the task, with a short list of action items. Here is the email content:\n\n"
+        f"To: {email.to}\n"
+        f"From: {email.author}\n"
+        f"Date: {email.date}\n"
+        f"Subject: {email.subject}\n\n"
+        f"{email.body}"
+    )
+    return prompt
 
 
 def construct_detailed_delivery_prompt(email: Email) -> str:
